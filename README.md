@@ -40,6 +40,7 @@ and verify the visible publication and experience details.
 - [BlockBatch preprint](https://arxiv.org/abs/2605.29233)
 - [BlockBatch code](https://github.com/Laurence-Wu/BlockBatch)
 - [EIC Lab team](https://eiclab.scs.gatech.edu/pages/team.html)
+- [Qite Li’s Peking University homepage (Chinese)](https://faculty.pku.edu.cn/liqite/zh_CN/index/7845/list/index.htm)
 - [Di Jin's personal homepage](https://jind11.github.io/)
 
 The Findings of EMNLP 2026 venue and AgentSuite equal-contribution designation were
